@@ -1,3 +1,1 @@
-document.querySelector("button").addEventListener("click", function () {
-    alert("Projects section will be added soon!");
-});
+console.log("Welcome to Sai Yasaswi's Portfolio 🚀");
